@@ -1,0 +1,9 @@
+body{
+	background: url("blue.png");
+	color: white;
+}
+h2{
+	color: white;
+	padding-top: 30px;
+	margin: auto;
+}

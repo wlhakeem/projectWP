@@ -1,0 +1,10 @@
+body{
+	background-image:url("img3.jpg");
+	font-family: Times New Roman;
+}
+form{
+	background-color: white;
+    border: 3px solid white;
+    padding-top: 30px;
+	font-size: 50px;
+}

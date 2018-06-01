@@ -1,0 +1,16 @@
+body{
+	background: url("blue.png");
+	color: white;
+}
+form {
+    width: 100%;
+    margin-top: 50px;
+}
+a{
+	color: white;
+}
+h2{
+	position:center;
+	padding-top:200px;
+	margin-left:450px;
+}

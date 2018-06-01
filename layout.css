@@ -1,0 +1,26 @@
+body {
+    background-color:lightblue;
+	background-image:url("blue.png");
+	color: white;
+}
+form {
+	margin-left: 300px;
+    width: 50%;
+    border: 3px solid white;
+    padding-top: 30px;
+	position: center;
+}
+ h1{
+color: white;
+text-align: center-right;
+font-family: "courier new";
+font-size: 50px;
+width: 90%;
+border-collapse:
+collapse; border-spacing: 0;
+position: center;
+}
+
+a{
+	color: white;
+}
